@@ -1,4 +1,4 @@
-# Ember CLI Content for Index
+# Ember CLI Content for Index [![Build Status](https://travis-ci.org/CondeNast/ember-cli-content-for-index.svg?branch=master)](https://travis-ci.org/CondeNast/ember-cli-content-for-index)
 
 Automatically include HTML snippets in your Ember CLI index.html files.
 
