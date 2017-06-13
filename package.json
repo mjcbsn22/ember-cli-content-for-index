@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-content-for-index",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An Ember CLI addon to automatically include HTML snippets in your Ember CLI index.html files.",
   "keywords": [
     "ember-addon"
